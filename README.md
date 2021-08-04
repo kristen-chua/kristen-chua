@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kristen-chua
 - 👀 I’m interested libraries, in informatics and natural language processing
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate with other learners
-- 📫 How to reach me: https://www.linkedin.com/in/kristen-chua/
+- 🌱 I’m currently learning python and data visualization tools
+- 💞️ I’m looking to work together on interesting projects
+- 📫 How to reach me: Send me a message via LinkedIn https://www.linkedin.com/in/kristen-chua/
 
 <!---
 kristen-chua/kristen-chua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
