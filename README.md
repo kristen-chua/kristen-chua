@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kristen-chua
-- 👀 I’m interested in digital libraries, natural language processing, and informatics
-- 🌱 I’m currently learning cybersecurity skills, python, and data visualization tools
-- 💞️ I’m looking to work together on interesting projects
+- 👀 I’m interested in higher education, cognitive science, informatics, and digital libraries
+- 🌱 I’m currently learning quantitative research methods and educational psychology 
+- 💞️ I’m looking to work together on projects that support wellness and thriving in higher education settings
 - 📫 How to reach me: Send me a message via LinkedIn https://www.linkedin.com/in/kristen-chua/
 
 <!---
